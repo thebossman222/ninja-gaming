@@ -10,8 +10,8 @@
 </div>
 
 <div class="error">
-    <h2>OOPSIE</h2>
-    <p>YOU FUCKED UP</p>
+    <h2>ERROR</h2>
+    <p>Page Not Found</p>
     <a href="/guides">View The Guide</a>
 </div>
 
